@@ -1,0 +1,1 @@
+Used Various ML algorithm to predict if the person is likely to survive the Titanic crash or not.
